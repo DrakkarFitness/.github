@@ -46,7 +46,7 @@ Peak One Performance is built for those who push boundaries — athletes, traine
 ### 📫 Stay in the Loop
 
 - 💬 [Discord](https://discord.gg/JHUYUNaYd3)
-- 🤖 [Reddit](https://www.reddit.com/r/peakoneperformance/)
+- 🤖 [r/PeakOnePerformance](https://www.reddit.com/r/peakoneperformance/)
 
 ---
 <!--
