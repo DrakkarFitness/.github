@@ -19,6 +19,12 @@ Everything is designed to sync seamlessly across mobile and backend systems — 
 
 ---
 
+## 📸 Preview
+
+![Overview](./Peak_One_Performance_App_Overview.png)
+
+---
+
 ## 🔒 Private Repositories
 
 Development is fully private while we focus on building and refining the core experience. Our architecture is modular, secure, and built to scale.
