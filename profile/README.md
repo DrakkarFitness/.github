@@ -8,12 +8,29 @@ We’re creating a high-performance ecosystem that makes fitness personal, nutri
 
 ## 💡 What We’re Building
 
-Peak One Performance is an all-in-one experience for:
-- 🏋️ Workout tracking and performance metrics  
-- 🍽️ Meal logging, macro tracking, and personalized goals  
-- 📈 Progress analytics that actually mean something  
-- 📲 Real-time trainer–client communication  
-- 🛍️ In-app store for gear, supplements, and more  
+**Peak One Performance is an all in one experience for:**  
+
+- 🏋️ **Smarter workout tracking with performance driven metrics**  
+  Log sets, reps, and tempo with precision. Visualize gains and optimize your routine with data that actually matters.
+
+- 🍽️ **Meal logging, macro tracking, and adaptive nutrition goals**  
+  Easily track your food intake and hit personalized macro targets that evolve as your goals change.
+
+- 📈 **Real progress analytics that reflect your effort**  
+  No fluff or vanity metrics. See real time trends in strength, endurance, and body composition.
+
+- 📲 **Real time trainer client communication and updates**  
+  Chat live, receive updated plans instantly, and stay fully in sync with your coach all in one place.
+
+- 📸 **BeFit a daily unfiltered snapshot of your fitness journey**  
+  Get prompted once a day to share an honest no filter check in. Build accountability and celebrate the real grind.
+
+- 🧠 **Awakened Progression System for stat building, boss fights, and rank ascension**  
+  Inspired by Solo Leveling. Earn stat points, evolve your profile, challenge bosses, battle your shadow, and unlock exclusive rewards.
+
+- 🛍️ **An in app store with curated gear, supplements, and recovery tools**  
+  Shop high quality essentials hand picked to support your fitness journey without ever leaving the app.
+
 
 Everything is designed to sync seamlessly across mobile and backend systems — built for scale and optimized for results.
 
