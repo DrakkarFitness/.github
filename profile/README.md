@@ -22,7 +22,7 @@ We’re creating a high-performance ecosystem that makes fitness personal, nutri
 - 📲 **Real time trainer client communication and updates**  
   Chat live, receive updated plans instantly, and stay fully in sync with your coach all in one place.
 
-- 📸 **BeFit a daily unfiltered snapshot of your fitness journey**  
+- 📸 **Unmasked a daily unfiltered snapshot of your fitness journey**  
   Get prompted once a day to share an honest no filter check in. Build accountability and celebrate the real grind.
 
 - 🧠 **Awakened Progression System for stat building, boss fights, and rank ascension**  
