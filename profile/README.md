@@ -1,38 +1,42 @@
-# 🏔️ Peak One Performance
+# 🛡️ Drakkar Fitness
 
-Welcome to the official GitHub organization for **Peak One Performance (P1P)** — a next-generation fitness platform built to transform how trainers and clients connect, track, and achieve real results.
+Welcome to the official GitHub organization for **Drakkar Fitness** — a performance-first fitness platform forged for those who lead their own path.
 
-We’re creating a high-performance ecosystem that makes fitness personal, nutrition simple, and progress inevitable.
+We’re building a precision-focused ecosystem that redefines how athletes, trainers, and everyday warriors train, connect, and progress. Everything is designed to move with intent — no fluff, no wasted motion.
 
 ---
 
-## 💡 What We’re Building
+## ⚙️ What We’re Building
 
-**Peak One Performance is an all in one experience for:**  
+**Drakkar Fitness is an all-in-one experience for:**
 
-- 🏋️ **Smarter workout tracking with performance driven metrics**  
-  Log sets, reps, and tempo with precision. Visualize gains and optimize your routine with data that actually matters.
+### 🏋️ Forge  
+Smarter workout tracking with performance-driven metrics.  
+Log sets, reps, tempo, and effort with detail. Visualize your strength. Adapt your training. Own the data.
 
-- 🍽️ **Meal logging, macro tracking, and adaptive nutrition goals**  
-  Easily track your food intake and hit personalized macro targets that evolve as your goals change.
+### 🍽️ Feast  
+Clean macro and meal tracking that adapts to your goals.  
+Track intake, set evolving targets, and fuel your progress without distractions.
 
-- 📈 **Real progress analytics that reflect your effort**  
-  No fluff or vanity metrics. See real time trends in strength, endurance, and body composition.
+### 📜 Runes  
+Real-time analytics carved from your grind.  
+Track strength, stamina, body composition, and performance trends. The Runes never lie.
 
-- 📲 **Real time trainer client communication and updates**  
-  Chat live, receive updated plans instantly, and stay fully in sync with your coach all in one place.
+### 🐺 Whispers  
+Real-time communication between trainer and client.  
+Instant updates. Shared plans. One synced system.
 
-- 📸 **Unmasked a daily unfiltered snapshot of your fitness journey**  
-  Get prompted once a day to share an honest no filter check in. Build accountability and celebrate the real grind.
+### 🪞 Mirror  
+A daily, unfiltered reflection of your fitness journey.  
+One prompt. One check-in. No filters. Just truth.
 
-- 🧠 **Awakened Progression System for stat building, boss fights, and rank ascension**  
-  Inspired by Solo Leveling. Earn stat points, evolve your profile, challenge bosses, battle your shadow, and unlock exclusive rewards.
+### 🧱 Trials  
+A progression system built like an RPG.  
+Earn stats, rank up, challenge bosses, battle your shadow, and unlock rewards. Inspired by *Solo Leveling* — made for real-world effort.
 
-- 🛍️ **An in app store with curated gear, supplements, and recovery tools**  
-  Shop high quality essentials hand picked to support your fitness journey without ever leaving the app.
-
-
-Everything is designed to sync seamlessly across mobile and backend systems — built for scale and optimized for results.
+### 🛍️ Armory  
+In-app store with curated gear, recovery tools, and essentials.  
+Only what supports the mission. Nothing extra.
 
 ---
 
@@ -42,33 +46,34 @@ Everything is designed to sync seamlessly across mobile and backend systems — 
 
 ---
 
-## 🔒 Private Repositories
+## 🔐 Private Repositories
 
-Development is fully private while we focus on building and refining the core experience. Our architecture is modular, secure, and built to scale.
+While we build and refine the core experience, all repositories are private.
 
-Our internal repos include:
-- `PeakOnePerformance-Android` – Native Kotlin app (Jetpack Compose)  
-- `PeakOnePerformance` – Microservices backend (NestJS, PostgreSQL, Redis, NATS)  
-- `PeakOnePerformance-IOS` – Native Swift app  
+### Internal Projects:
+- `DrakkarFitness-Android` — Native Kotlin (Jetpack Compose)
+- `DrakkarFitness-iOS` — Native Swift
+- `DrakkarFitness-Backend` — Microservice architecture (NestJS, PostgreSQL, Redis, NATS)
 
----
-
-## 🧠 Our Motto
-
-**"Probably too hard for you."**  
-Peak One Performance is built for those who push boundaries — athletes, trainers, and developers alike.
+Architecture is modular, secure, and built for scale.
 
 ---
 
-### 📫 Stay in the Loop
+## 🧭 Our Motto
 
-- 💬 [Discord](https://discord.gg/JHUYUNaYd3)
-- 🤖 [r/PeakOnePerformance](https://www.reddit.com/r/peakoneperformance/)
+**"We don’t drift. We row."**  
+Drakkar Fitness is built for the disciplined — those who move forward with purpose, in training and in life.
 
 ---
-<!--
-- 🌐 [Website](https://peakoneperformance.com) *(coming soon)*  
-- 🧵 [Threads](https://www.threads.net/@peakoneperformance)  
-- 🐦 [X / Twitter](https://twitter.com/p1p_official) 
--->
-> Built by people obsessed with performance. Driven by data. Fueled by purpose.
+
+## 📬 Stay Connected
+
+- 💬 [Discord](https://discord.gg/JHUYUNaYd3)  
+- 🧠 [r/PeakOnePerformance](https://www.reddit.com/r/peakoneperformance/)  
+- 🌐 `drakkarfitness.app` *(Coming Soon)*
+
+---
+
+> Built by people who lead themselves.  
+> Driven by data. Fueled by purpose.  
+> Welcome aboard.
