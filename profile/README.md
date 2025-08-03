@@ -68,10 +68,12 @@ Drakkar Fitness is built for the disciplined — those who move forward with pur
 
 ## 📬 Stay Connected
 
-- 💬 [Discord](https://discord.gg/JHUYUNaYd3)  
-- 🧠 [r/DrakkarFitness]([https://www.reddit.com/r/peakoneperformance/](https://www.reddit.com/r/DrakkarFitness/)
-- [Instagram](https://instagram.com/drakkar.fitness)
-- [X](https://x.com/drakkarfitness)  
+## 🌐 Connect with Us
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/JHUYUNaYd3)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/r/DrakkarFitness/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/drakkar.fitness)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/drakkarfitness)
 - 🌐 `drakkarfitness.app` *(Coming Soon)*
 
 ---
