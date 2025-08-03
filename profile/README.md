@@ -42,7 +42,7 @@ Only what supports the mission. Nothing extra.
 
 ## 📸 Preview
 
-![Overview](./Peak_One_Performance_App_Overview.png)
+![Overview](./DrakkarOverview.png)
 
 ---
 
